@@ -51,7 +51,7 @@ Welcome to Kubernetes Linux box for Vagrant by Yohnah
 =================================================
 
 Host Operative System detected: #{Host_OS}
-Yohnah/Docker was successfully installed on your device
+Yohnah/Kubernetes was successfully installed on your device
 
 This box has installed and configured all features, modules and tools to setup a kubernetes cluster using <<kubeadm>> command. To know how kubeadm works visit:
 
