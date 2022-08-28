@@ -11,7 +11,7 @@ export UPLOADER_DIRECTORY := $(PACKER_DIRECTORY_OUTPUT)/toupload
 
 .PHONY: all versions checkifbuild
 
-all: version build test
+all: versions build test
 
 versions: 
 	@echo "========================="
